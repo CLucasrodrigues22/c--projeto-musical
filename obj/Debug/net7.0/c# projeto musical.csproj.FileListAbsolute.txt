@@ -12,3 +12,17 @@ C:\Users\cluca\OneDrive\Área de Trabalho\c# projeto musical\obj\Debug\net7.0\re
 C:\Users\cluca\OneDrive\Área de Trabalho\c# projeto musical\obj\Debug\net7.0\c# projeto musical.pdb
 C:\Users\cluca\OneDrive\Área de Trabalho\c# projeto musical\obj\Debug\net7.0\c# projeto musical.genruntimeconfig.cache
 C:\Users\cluca\OneDrive\Área de Trabalho\c# projeto musical\obj\Debug\net7.0\ref\c# projeto musical.dll
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\bin\Debug\net7.0\c# projeto musical.exe
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\bin\Debug\net7.0\c# projeto musical.deps.json
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\bin\Debug\net7.0\c# projeto musical.runtimeconfig.json
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\bin\Debug\net7.0\c# projeto musical.dll
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\bin\Debug\net7.0\c# projeto musical.pdb
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.AssemblyInfoInputs.cache
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.AssemblyInfo.cs
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.csproj.CoreCompileInputs.cache
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.dll
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\refint\c# projeto musical.dll
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.pdb
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\c# projeto musical.genruntimeconfig.cache
+C:\Users\LucasRodriguesCardos\Source\Repos\c--projeto-musical\obj\Debug\net7.0\ref\c# projeto musical.dll
